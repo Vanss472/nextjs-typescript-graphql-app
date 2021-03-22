@@ -5,7 +5,7 @@ Fetching data with Next.js and Apollo Client using 3 different ways:
   - Client-side rendering
 
 ### Static rendering
-Pages are generated at build time and serbed as static HTML file.
+Pages are generated at build time and served as static HTML file.
 
 ---
 
